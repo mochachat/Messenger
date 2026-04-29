@@ -1,0 +1,33 @@
+name: Public PR Intake
+
+on:
+  pull_request_target:
+    types:
+      - opened
+
+permissions:
+  pull-requests: write
+
+jobs:
+  intake-comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Comment on new public PRs
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = [
+              "Thanks for the contribution.",
+              "",
+              "Mocha Messenger is developed in a private production repository, so this public repository is mainly used for docs, screenshots, compatibility notes, mockups, and carefully scoped proposals.",
+              "",
+              "If this change is accepted and belongs in the shipped product, the Mocha team may manually port or adapt it into the private development repository.",
+              "",
+              "Please make sure the PR does not include private source code, secrets, deployment data, or other non-public implementation material."
+            ].join("\n");
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body
+            });

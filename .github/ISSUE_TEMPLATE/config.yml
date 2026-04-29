@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Mocha service status
+    url: https://mochachat.net/support/status.html
+    about: Check the public status page before reporting a possible outage.
+  - name: Protocol reference
+    url: https://github.com/mochachat/Protocol
+    about: Use the Protocol repo for MENP and integration documentation questions.
