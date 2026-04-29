@@ -1,6 +1,6 @@
 # Mocha Messenger
 
-Mocha Messenger is the reference Windows desktop client for the Mocha network.
+Mocha Messenger is the flagship Windows desktop client for the Mocha network.
 
 This repository is a public information hub for the project. It does **not** contain the private production source tree for the client or the Mocha services.
 
@@ -67,7 +67,7 @@ Community contributions are welcome in the form of:
 - wiki edits
 - mockups and design suggestions
 
-Please read [CONTRIBUTING.md](C:\Users\Aidan\Documents\GitHub\project\docs\public-repos\messenger\CONTRIBUTING.md) before opening a pull request.
+Please read [CONTRIBUTING.md](mochachat/Messenger/CONTRIBUTING.md) before opening a pull request.
 
 ## How accepted public work is handled
 
