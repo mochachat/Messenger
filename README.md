@@ -1,9 +1,11 @@
 # Mocha Messenger
 
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)](#mocha-messenger)
+[![Language](https://img.shields.io/badge/language-C%23-68217A?logo=csharp&logoColor=white)](#mocha-messenger)
 [![Protocol](https://img.shields.io/badge/protocol-MENP%2F1.0-0A4DB3)](https://github.com/mochachat/Protocol)
 [![Project Status](https://img.shields.io/badge/status-private%20beta-D3A000)](ROADMAP.md)
 [![Core Source](https://img.shields.io/badge/core-closed%20source-C73B32)](#what-this-repository-is-not-for)
+[![Security Policy](https://img.shields.io/badge/security-policy-2EA44F)](SECURITY.md)
 [![Issues](https://img.shields.io/github/issues/mochachat/Messenger)](https://github.com/mochachat/Messenger/issues)
 [![Wiki](https://img.shields.io/badge/wiki-available-2EA44F)](https://github.com/mochachat/Messenger/wiki)
 [![Downloads](https://img.shields.io/badge/downloads-Mocha%20site-479E91)](https://mochachat.net/download/download.html)
