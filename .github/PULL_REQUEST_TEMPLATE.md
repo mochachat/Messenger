@@ -1,4 +1,4 @@
-## Summary
+# Pull Request Summary
 
 Describe the change or proposal clearly.
 
@@ -17,9 +17,12 @@ Explain the user problem or improvement.
 
 ## Scope check
 
-- [ ] This PR does not include private source code from the closed Mocha development repository
-- [ ] This PR does not include secrets, deployment data, or production credentials
-- [ ] I understand accepted product changes may be manually ported into the private repository rather than merged directly into a public codebase
+- [ ] This PR does not include private source code from the closed Mocha
+      development repository
+- [ ] This PR does not include secrets, deployment data, or production
+      credentials
+- [ ] I understand accepted product changes may be manually ported into the
+      private repository rather than merged directly into a public codebase
 
 ## Screenshots or references
 

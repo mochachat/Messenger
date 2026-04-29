@@ -4,13 +4,14 @@ Welcome to the public Mocha Messenger wiki.
 
 Recommended starting points:
 
-- [Feature Overview](Feature-Overview)
-- [Known Limitations](Known-Limitations)
-- [Add-ins](Add-ins)
-- [Service Overview](Service-Overview)
-- [Reporting Bugs and Feedback](Reporting-Bugs-and-Feedback)
-- [Public Contribution Workflow](Public-Contribution-Workflow)
-- [FAQ](FAQ)
-- [Release Channels](Release-Channels)
+- [Feature Overview](Feature-Overview.md)
+- [Known Limitations](Known-Limitations.md)
+- [Add-ins](Add-ins.md)
+- [Service Overview](Service-Overview.md)
+- [Reporting Bugs and Feedback](Reporting-Bugs-and-Feedback.md)
+- [Public Contribution Workflow](Public-Contribution-Workflow.md)
+- [FAQ](FAQ.md)
+- [Release Channels](Release-Channels.md)
 
-This wiki is for public-facing project information. The private development repository remains the source of truth for implementation work.
+This wiki is for public-facing project information. The private development
+repository remains the source of truth for implementation work.
