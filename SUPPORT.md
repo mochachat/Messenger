@@ -8,6 +8,8 @@ This repository is one of the main public intake points for Mocha Messenger feed
 - protocol documentation question: `mochachat/Protocol`
 - service health question: [https://mochachat.net/support/status.html](https://mochachat.net/support/status.html)
 - download/update questions: [https://mochachat.net/download/download.html](https://mochachat.net/download/download.html)
+- privacy and legal policy questions: [LEGAL.md](LEGAL.md)
+- security-sensitive issues: [SECURITY.md](SECURITY.md)
 
 ## What makes a bug report useful
 
