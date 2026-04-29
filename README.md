@@ -67,7 +67,7 @@ Community contributions are welcome in the form of:
 - wiki edits
 - mockups and design suggestions
 
-Please read [CONTRIBUTING.md](mochachat/Messenger/CONTRIBUTING.md) before opening a pull request.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request.
 
 ## How accepted public work is handled
 
