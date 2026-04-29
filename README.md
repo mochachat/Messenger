@@ -63,7 +63,11 @@ The wider Mocha stack currently includes:
 
 - [ROADMAP.md](ROADMAP.md)
 - [ADDINS.md](ADDINS.md)
+- [MEDIA-KIT.md](MEDIA-KIT.md)
+- [RELEASES.md](RELEASES.md)
 - [SUPPORT.md](SUPPORT.md)
+- [TRIAGE.md](TRIAGE.md)
+- [DISCUSSIONS.md](DISCUSSIONS.md)
 - [SECURITY.md](SECURITY.md)
 
 ## Contributing
@@ -95,6 +99,7 @@ That means:
 - Known Limitations
 - FAQ
 - Add-ins
+- Media and Screenshots
 - Reporting Bugs and Feedback
 - Service Overview
 - Public Contribution Workflow
