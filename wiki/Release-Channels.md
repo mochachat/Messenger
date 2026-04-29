@@ -2,7 +2,7 @@
 
 Mocha Messenger may use multiple release channels over time.
 
-Current usage:
+Public examples:
 
 - Stable
 - Beta

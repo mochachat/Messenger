@@ -4,6 +4,18 @@ Mocha Messenger is the reference Windows desktop client for the Mocha network.
 
 This repository is a public information hub for the project. It does **not** contain the private production source tree for the client or the Mocha services.
 
+## Current focus
+
+The current Windows client is centered on rebuilding the classic Messenger experience on top of the modern Mocha network stack, including:
+
+- Passport-backed sign-in
+- roster and presence
+- one-to-one and group conversations
+- file transfers
+- current voice and video conversations
+- service-status awareness
+- in-client update delivery
+
 ## What this repository is for
 
 - feature overviews
@@ -37,6 +49,13 @@ The wider Mocha stack currently includes:
 - Downloads: [https://mochachat.net/download/download.html](https://mochachat.net/download/download.html)
 - Protocol reference: [https://github.com/mochachat/Protocol](https://github.com/mochachat/Protocol)
 
+## Useful repo pages
+
+- [ROADMAP.md](C:\Users\Aidan\Documents\GitHub\project\docs\public-repos\messenger\ROADMAP.md)
+- [ADDINS.md](C:\Users\Aidan\Documents\GitHub\project\docs\public-repos\messenger\ADDINS.md)
+- [SUPPORT.md](C:\Users\Aidan\Documents\GitHub\project\docs\public-repos\messenger\SUPPORT.md)
+- [SECURITY.md](C:\Users\Aidan\Documents\GitHub\project\docs\public-repos\messenger\SECURITY.md)
+
 ## Contributing
 
 Community contributions are welcome in the form of:
@@ -65,5 +84,8 @@ That means:
 - Feature Overview
 - Known Limitations
 - FAQ
+- Add-ins
+- Reporting Bugs and Feedback
+- Service Overview
 - Public Contribution Workflow
 - Release Channels
