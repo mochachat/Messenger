@@ -39,4 +39,4 @@ Current public expectation:
 - public design discussion is welcome
 - compatibility, trust, and abuse resistance matter as much as flexibility
 
-See [ADDINS.md](C:\Users\Aidan\Documents\GitHub\project\docs\public-repos\messenger\ADDINS.md) for the public-facing add-ins overview.
+See [ADDINS.md](ADDINS.md) for the public-facing add-ins overview.
