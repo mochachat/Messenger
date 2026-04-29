@@ -31,6 +31,7 @@ The current Windows client is centered on rebuilding the classic Messenger exper
 - feature overviews
 - public roadmap notes
 - screenshots and product information
+- public legal and policy documents
 - release summaries
 - known limitations
 - public feedback and discussion
@@ -64,6 +65,9 @@ The wider Mocha stack currently includes:
 - [ROADMAP.md](ROADMAP.md)
 - [ADDINS.md](ADDINS.md)
 - [MEDIA-KIT.md](MEDIA-KIT.md)
+- [LEGAL.md](LEGAL.md)
+- [EULA.md](EULA.md)
+- [PRIVACY.md](PRIVACY.md)
 - [RELEASES.md](RELEASES.md)
 - [SUPPORT.md](SUPPORT.md)
 - [TRIAGE.md](TRIAGE.md)
