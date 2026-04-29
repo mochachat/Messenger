@@ -2,7 +2,7 @@
 
 ## Is Mocha Messenger open source?
 
-No. The production client and service code remain private.
+No. Mocha Messenger Service client and production code remain private.
 
 ## Why is there a public Messenger repository?
 
